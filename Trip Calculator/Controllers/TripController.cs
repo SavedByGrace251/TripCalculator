@@ -28,7 +28,7 @@ namespace TripCalculator.Controllers
 							new ExpenseModel
 							{
 								Id = 0,
-								PersonId = 1,
+								PersonId = 0,
 								Amount = 5.75f,
 								Description = "Snacks"
 							}
